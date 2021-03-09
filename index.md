@@ -82,7 +82,7 @@ displayed if the 'eventbrite' field in the header is not set.
   background: #fc7b03;
   border: 1px solid #121212;
   border-radius: 4px;
-  color: #777777;
+  color: #121212;
   font: 14px Arial, Helvetica, Verdana;
   padding: 8px 20px;
   cursor: pointer;
