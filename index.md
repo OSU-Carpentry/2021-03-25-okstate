@@ -79,10 +79,10 @@ displayed if the 'eventbrite' field in the header is not set.
 <a id="s_lc_event_7609167" href="https://okstate.libcal.com/calendar/events/RforSocSci">REGISTER</a>
 <style>
 #s_lc_event_7609167 {
-  background: #fc7b03;
-  border: 1px solid #121212;
+  background: #FA620A;
+  border: 1px solid #FA620A;
   border-radius: 4px;
-  color: #121212;
+  color: #080808;
   font: 14px Arial, Helvetica, Verdana;
   padding: 8px 20px;
   cursor: pointer;
